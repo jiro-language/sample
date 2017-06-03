@@ -16,3 +16,11 @@
   そのままで:
     コール('そのままで');
 }
+
+// method
+トッピング jiroMethod() {
+  
+}
+
+// boolean
+丼 ninniku = あり;  // or なし
